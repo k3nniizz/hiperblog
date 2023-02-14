@@ -1,5 +1,5 @@
-este rchivo es de historia
+este archivo es de historia
 
-del curso de github
+del curso de git y github
 
-claudio silva.
+claudio silva - platzi.
